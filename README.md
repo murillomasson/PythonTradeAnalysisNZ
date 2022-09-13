@@ -1,5 +1,5 @@
 # PythonTradeAnalysisNZ
-to launch, please import: sqlite3 (as sq), warnings, matplotlib.pyplot (as plt), pandas (as pd), requests, seaborn (as sns)
+in order to launch, please import: sqlite3 (as sq), warnings, matplotlib.pyplot (as plt), pandas (as pd), requests, seaborn (as sns)
 
 data project:  analyzing the impact of COVID-19 on New Zealand trading still in progress.
 for now:
