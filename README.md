@@ -5,7 +5,7 @@ data project:  analyzing the impact of COVID-19 on New Zealand trading still in 
 for now:
 
 1. SQL connection (sqlite3)
-2. .csv 'COVID-19 EFFECTS ON TRADE' database download from stats.govt.nz (requests)
+2. .csv 'COVID-19 EFFECTS ON TRADE' database downloaded from stats.govt.nz (requests)
 3. csv to SQL (pandas)
 4. func. check columns titles (called to name table columns)
 5. func. print all rows
